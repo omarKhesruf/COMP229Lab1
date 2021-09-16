@@ -1,1 +1,1 @@
-console.log("Helli COMP 229");
+console.log("Hello COMP 229");
