@@ -1,0 +1,19 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "nood.js",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarKhesruf/COMP229Lab1.git"
+  },
+  "author": "Omar K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarKhesruf/COMP229Lab1/issues"
+  },
+  "homepage": "https://github.com/omarKhesruf/COMP229Lab1#readme"
+}
